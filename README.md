@@ -1,5 +1,5 @@
 # RoboND-BuildMyWorld
-Create a simulation world with Gazebo
+This is the code for my Udacity Robotics Software Engineer Nanodegree  - Build My World. It creates a simulation world with Gazebo.
 
 ### Directory Structure
 ```
